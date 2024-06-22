@@ -1,19 +1,19 @@
 {
-	"geode": "2.0.0-beta.27",
+	"geode": "3.0.0",
 	"gd": {
 		"win": "2.206"
 	},
 	"version": "v2.4.0",
-	"id": "prevter.openhack",
-	"name": "OpenHack",
-	"developer": "Prevter",
+	"id": "bomb.closedlegit",
+	"name": "ClosedLegit",
+	"developer": "Bomboy",
 	"description": "A collection of hacks for Geometry Dash",
 	"tags": [
 		"Universal",
 		"Gameplay",
 		"Cheats"
 	],
-	"repository": "https://github.com/Prevter/GDOpenHack",
+	"repository": "https://github.com/cute-funny-cats-meow/ClosedLegit",
 	"issues": {
 		"info": "Join the Discord server for support",
 		"url": "https://discord.gg/HaHn7RSJ4Q"
